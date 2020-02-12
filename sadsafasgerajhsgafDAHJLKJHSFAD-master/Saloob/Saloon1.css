@@ -1,0 +1,67 @@
+.Land{
+    borde: 5px solid black;
+    height: 1550px;
+    weight: 500px;
+    position: center;
+    padding-left: 30px;
+    font-size: 25px;
+    font-family: "Segoe Script";
+
+}
+.ter{
+    borde: 5px solid black;
+    height: 100px;
+    weight: 100px;
+    position: absolute;
+    padding-left:850px;
+    margin-bottom: 100px;
+}
+.cer{
+    borde: 5px solid black;
+    height: 850px;
+    weight: 300px;
+    position: center;
+    padding-left: 30px;
+    font-size: 25px;
+    margin-right: 700px;
+    font-family: "Segoe Script";
+}
+.ser{
+    border: 5px solid black;
+    height: 150px;
+    weight: 100px;
+    position: center;
+    background: orange;
+    padding-left: 400px;
+    font-size: 30px;
+    font-family: "Segoe Script";
+}
+
+.ret{
+    borde: 5px solid black;
+    font-size: 25px;
+    padding-left: 500px;
+    height: 10px;
+    weight: 500px;
+    margin-righ: 50%;
+    font-family: "Segoe Script";
+
+
+}
+.bad{
+    borde: 5px solid black;
+    height: 100px;
+    weight: 100px;
+    position: center;
+    padding-left: 400px;
+    font-size: 30px;
+    font-family: "Segoe Script";
+}
+
+.dab{
+    borde: 5px solid black;
+    margig-righ: 50px;
+    height: 200px;
+    weight: 10px;
+}
+
